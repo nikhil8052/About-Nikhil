@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil ( @nikhil8052 )
-- 👀  full stack developer.
+- 👀  Full Stack Developer.
 
 - 📫 Reach to me nikhilkumarnk0805@gmail.com
 - 🌅 Self motivated, hardworking, dedication, Consistent.
