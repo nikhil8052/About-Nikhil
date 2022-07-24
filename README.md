@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil ( @nikhil8052 )
 - 👀  Full Stack Developer.
-
+- 💻  C language expert, expert in troubleshooting,Data Structures, Algorithms, HTML,CSS,JavaScript,ReactJs,PHP,Python,Bootstrap,Jquery,Python,Hands on experience of making telegram bots,Git, GitHub.
 - 📫 Reach to me nikhilkumarnk0805@gmail.com
 - 🌅 Self motivated, hardworking, dedication, Consistent.
 - 💞 My favourite motivation quotes.
